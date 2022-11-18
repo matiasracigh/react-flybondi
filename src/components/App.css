@@ -1,0 +1,46 @@
+.Vuelo-container{
+    background-image: url("https://i0.wp.com/vacacionesporargentina.com/wp-content/uploads/2020/11/waterfall-5040210_1920.jpg?fit=1920%2C1272&ssl=1");
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    background-size: cover;
+
+
+}
+
+.body{
+    background-color: rgb(10, 10, 83);
+}
+.Vuelo-container span{
+    color: #FFBF00;
+}
+
+h3{
+    font-family: 'Bebas Neue', cursive;
+    margin-top: 30px;
+    text-align: center;
+    color: rgb(63, 5, 5);
+    padding: 10%;
+    font-weight: 800;
+}
+
+button{
+    
+    background-color: rgb(128, 129, 131);
+    color: black;
+    margin-bottom: 20px;
+    float: right;
+    display: flex;
+}   
+
+h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(10, 8, 8);
+    font-size: 24px;
+}
+
+.opciones{
+    background-color: black;
+}
+
